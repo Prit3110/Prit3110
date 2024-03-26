@@ -10,7 +10,8 @@
 Prit3110/Prit3110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-import requests
+
+
 
 def download_movie(url, save_path):
     response = requests.get(url)
